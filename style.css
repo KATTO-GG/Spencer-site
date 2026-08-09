@@ -1,5 +1,4 @@
 header {
-    background-image: url('bg.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -16,6 +15,7 @@ div {
 }
 
 body {
+    background-image: url('bg.jpg');
     font-family: 'Times New Roman', Times, serif; /* i like this  font */
     margin: 0;
     padding: 0;
