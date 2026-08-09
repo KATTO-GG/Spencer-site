@@ -15,7 +15,10 @@ div {
 }
 
 body {
-    background-image: url('bg.jpg');
+    background-image: url('bg.jpg'); /* im trying to add a background image */
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
     font-family: 'Times New Roman', Times, serif; /* i like this  font */
     margin: 0;
     padding: 0;
