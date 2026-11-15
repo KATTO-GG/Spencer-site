@@ -1,6 +1,6 @@
 # Spencer Site
 
-This is my own site im making to help me learn html and css!
+This is my own personal site im making to help me learn html and css!
 
 ## about it
 
